@@ -6,3 +6,6 @@
 
 ### SmartMesh
 - https://github.com/SmartMeshFoundation
+
+### Enigma
+- https://github.com/enigmampc/catalyst
