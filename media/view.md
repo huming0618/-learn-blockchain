@@ -1,0 +1,2 @@
+- -_- [十年过去了，还没人真正地为区块链找到突破性运用](http://www.sohu.com/a/215749453_308467)
+- -_- [是什么限制了区块链技术的应用?](http://tech.sina.com.cn/roll/2018-01-11/doc-ifyqptqv7584270.shtml)
