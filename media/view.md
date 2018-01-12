@@ -1,3 +1,6 @@
 - -_- [十年过去了，还没人真正地为区块链找到突破性运用](http://www.sohu.com/a/215749453_308467)
 - -_- [是什么限制了区块链技术的应用?](http://tech.sina.com.cn/roll/2018-01-11/doc-ifyqptqv7584270.shtml)
 - ^-^ [为什么2018年区块链技术将是主流（译文）](http://b.mytoken.iknowapp.com/2018/01/10/cjc9zbz1n000059pe9nvlsmtn/)
+- -_- [区块链应用的去中心化只是乌托邦](http://www.jinse.com/news/blockchain/127321.html)
+- ^-^ [区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+- ^-^ [区块链与裸照-用漫画也可秒懂!](http://www.sohu.com/a/216102899_488304)
