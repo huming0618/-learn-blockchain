@@ -18,3 +18,6 @@
 
 ### Collection for ethereum and blockchain
 - https://github.com/Scanate/EthList
+
+### EOS
+- https://github.com/EOSIO
