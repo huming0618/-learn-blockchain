@@ -21,3 +21,6 @@
 
 ### EOS
 - https://github.com/EOSIO
+
+### BCX
+- https://github.com/bitcoinx-project/bitcoinx
