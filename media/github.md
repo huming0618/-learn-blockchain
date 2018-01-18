@@ -24,3 +24,9 @@
 
 ### BCX
 - https://github.com/bitcoinx-project/bitcoinx
+
+### NEO
+- https://github.com/neo-project/neo
+
+### INK
+- https://github.com/inklabsfoundation

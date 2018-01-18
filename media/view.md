@@ -4,3 +4,4 @@
 - -_- [区块链应用的去中心化只是乌托邦](http://www.jinse.com/news/blockchain/127321.html)
 - ^-^ [区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
 - ^-^ [区块链与裸照-用漫画也可秒懂!](http://www.sohu.com/a/216102899_488304)
+- ^-^ [对于产品，对于行业究竟意味着什么？](https://mp.weixin.qq.com/s/hA1nkv_E114I-KouZxehdQ)

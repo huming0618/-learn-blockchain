@@ -6,3 +6,7 @@
 
 ### 巴比特
 - http://www.8btc.com
+
+### 链世界
+- https://www.7234.cn/
+
