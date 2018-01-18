@@ -7,3 +7,4 @@
 ### Technology
 - [区块链技术](http://www.8btc.com/how)
 - [Master BitCoin中文翻译文章](http://8btc.com/topic-mastering-bitcoin.html)
+- [IBM Blockchain](https://www.ibm.com/blockchain/what-is-blockchain.html)
