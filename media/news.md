@@ -10,3 +10,7 @@
 ### 链世界
 - https://www.7234.cn/
 
+### 金色财经
+- http://www.jinse.com/
+
+
