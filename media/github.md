@@ -1,3 +1,6 @@
+### LTC
+- https://github.com/litecoin-project/litecoin
+
 ### Tron 
 - https://github.com/tronprotocol
 
@@ -33,3 +36,6 @@
 
 ### Po.et
 - https://github.com/poetapp
+
+### Learning blockchain through the cli
+- https://github.com/daxeel/blockshell
