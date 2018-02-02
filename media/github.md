@@ -45,3 +45,11 @@
 - python
 - https://cn.hyperledger.org/projects/sawtooth
 - Hyperledger Sawtooth is an enterprise solution for building, deploying, and running distributed ledgers (also called blockchains). It provides an extremely modular and flexible platform for implementing transaction-based updates to shared state between untrusted parties coordinated by consensus algorithms.
+
+### Nimiq Blockchain
+- https://github.com/nimiq-network/core
+- Nimiq is a frictionless payment protocol for the web.
+
+### BCOS
+- https://github.com/bcosorg/bcos
+- BCOS平台（取BlockChainOpenSource涵义命名）是深圳前海微众银行股份有限公司、上海万向区块链股份公司、矩阵元技术（深圳）有限公司三方共同研发并且完全开源的区块链底层技术平台。
