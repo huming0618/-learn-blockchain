@@ -6,3 +6,4 @@
 - ^-^ [区块链与裸照-用漫画也可秒懂!](http://www.sohu.com/a/216102899_488304)
 - ^-^ [对于产品，对于行业究竟意味着什么？](https://mp.weixin.qq.com/s/hA1nkv_E114I-KouZxehdQ)
 - ^-^ [张首晟教授：区块链技术是互联网世界新的分合转折点](https://mp.weixin.qq.com/s/O7QGvnGCb9s2U_Bdrqaemw)
+- ^-^ [雄文！Token：共识的下一个100年](http://www.sohu.com/a/219676505_534679)
