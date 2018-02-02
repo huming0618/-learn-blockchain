@@ -53,3 +53,8 @@
 ### BCOS
 - https://github.com/bcosorg/bcos
 - BCOS平台（取BlockChainOpenSource涵义命名）是深圳前海微众银行股份有限公司、上海万向区块链股份公司、矩阵元技术（深圳）有限公司三方共同研发并且完全开源的区块链底层技术平台。
+
+### AE
+- https://github.com/aeternity
+- Aternity - new scalable blockchain technology
+- Erlang
