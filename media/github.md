@@ -58,3 +58,7 @@
 - https://github.com/aeternity
 - Aternity - new scalable blockchain technology
 - Erlang
+- 
+
+### ADA - Cardano
+- https://github.com/input-output-hk/cardano-sl
