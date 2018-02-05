@@ -62,3 +62,9 @@
 
 ### ADA - Cardano
 - https://github.com/input-output-hk/cardano-sl
+- 
+
+### steem
+- The blockchain for Smart Media Tokens (SMTs) and decentralized applications.
+- https://github.com/steemit/steem
+- https://steem.io
